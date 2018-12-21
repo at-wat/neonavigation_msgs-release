@@ -1,3 +1,31 @@
+## neonavigation_msgs (melodic) - 0.3.0-0
+
+The packages in the `neonavigation_msgs` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release neonavigation_msgs --track melodic --ros-distro melodic` on `Fri, 21 Dec 2018 07:33:38 -0000`
+
+These packages were released:
+- `costmap_cspace_msgs`
+- `map_organizer_msgs`
+- `neonavigation_msgs`
+- `planner_cspace_msgs`
+- `trajectory_tracker_msgs`
+
+Version of package(s) in repository `neonavigation_msgs`:
+
+- upstream repository: https://github.com/at-wat/neonavigation_msgs.git
+- release repository: https://github.com/at-wat/neonavigation_msgs-release.git
+- rosdistro version: `0.2.0-0`
+- old version: `0.2.0-0`
+- new version: `0.3.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## neonavigation_msgs (lunar) - 0.3.0-0
 
 The packages in the `neonavigation_msgs` repository were released into the `lunar` distro by running `/usr/local/bin/bloom-release neonavigation_msgs --track lunar --ros-distro lunar` on `Fri, 21 Dec 2018 07:26:37 -0000`

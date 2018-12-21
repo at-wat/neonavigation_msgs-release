@@ -1,9 +1,0 @@
-ros-melodic-neonavigation-msgs (0.2.0-0stretch) stretch; urgency=high
-
-  * Fix package versions (#1 <https://github.com/at-wat/neonavigation_msgs/issues/1>)
-  * Initial drop from neonavigation meta-package
-  * Contributors: Atsushi Watanabe
-
- -- Atsushi Watanabe <atsushi.w@ieee.org>  Wed, 20 Jun 2018 00:00:00 -0000
-
-

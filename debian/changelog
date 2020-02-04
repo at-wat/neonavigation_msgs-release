@@ -1,0 +1,41 @@
+ros-melodic-costmap-cspace-msgs (0.7.0-1stretch) stretch; urgency=high
+
+
+
+ -- Atsushi Watanabe <atsushi.w@ieee.org>  Wed, 29 Jan 2020 00:00:00 -0000
+
+ros-melodic-costmap-cspace-msgs (0.5.0-1stretch) stretch; urgency=high
+
+  * Drop ROS Indigo and Ubuntu Trusty support (#15 <https://github.com/at-wat/neonavigation_msgs/issues/15>)
+  * Contributors: Atsushi Watanabe
+
+ -- Atsushi Watanabe <atsushi.w@ieee.org>  Wed, 02 Oct 2019 00:00:00 -0000
+
+ros-melodic-costmap-cspace-msgs (0.3.1-1stretch) stretch; urgency=high
+
+
+
+ -- Atsushi Watanabe <atsushi.w@ieee.org>  Wed, 09 Jan 2019 00:00:00 -0000
+
+ros-melodic-costmap-cspace-msgs (0.3.0-1stretch) stretch; urgency=high
+
+  * Fix package dependencies (#5 <https://github.com/at-wat/neonavigation_msgs/issues/5>)
+    
+      * Fix package dependencies
+      * Migrate to manifest format 2
+      * Add catkin_lint test
+    
+  * Contributors: Atsushi Watanabe
+
+ -- Atsushi Watanabe <atsushi.w@ieee.org>  Fri, 21 Dec 2018 00:00:00 -0000
+
+ros-melodic-costmap-cspace-msgs (0.2.0-1stretch) stretch; urgency=high
+
+  * Fix package dependencies (#2 <https://github.com/at-wat/neonavigation_msgs/issues/2>)
+  * Fix package versions (#1 <https://github.com/at-wat/neonavigation_msgs/issues/1>)
+  * Initial drop from neonavigation meta-package
+  * Contributors: Atsushi Watanabe
+
+ -- Atsushi Watanabe <atsushi.w@ieee.org>  Wed, 20 Jun 2018 00:00:00 -0000
+
+

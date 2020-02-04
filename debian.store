@@ -1,1 +1,1 @@
-{"trim": "", "base": "7536e74", "trimbase": "", "parent": "debian/kinetic/safety_limiter_msgs", "previous": "1db3adc"}
+{"base": "65346c7", "parent": "debian/kinetic/safety_limiter_msgs", "previous": "728cc35", "trim": "", "trimbase": ""}

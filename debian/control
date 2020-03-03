@@ -1,0 +1,12 @@
+Source: ros-melodic-trajectory-tracker-msgs
+Section: misc
+Priority: optional
+Maintainer: Atsushi Watanabe <atsushi.w@ieee.org>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-nav-msgs, ros-melodic-roscpp, ros-melodic-roslint, ros-melodic-rosunit, ros-melodic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-trajectory-tracker-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-geometry-msgs, ros-melodic-message-runtime, ros-melodic-std-msgs
+Description: Message definitions for trajectory_tracker package

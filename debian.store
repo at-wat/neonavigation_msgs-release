@@ -1,1 +1,1 @@
-{"trim": "", "base": "3432f71", "trimbase": "", "parent": "debian/noetic/trajectory_tracker_msgs", "previous": "37d03b2"}
+{"base": "fa02a31", "parent": "debian/noetic/trajectory_tracker_msgs", "previous": "2ccb562", "trim": "", "trimbase": ""}

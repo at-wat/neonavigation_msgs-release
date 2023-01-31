@@ -1,0 +1,27 @@
+ros-melodic-safety-limiter-msgs (0.12.0-1bionic) bionic; urgency=high
+
+  * safety_limiter_msgs: fix maintainer email (#29 <https://github.com/at-wat/neonavigation_msgs/issues/29>)
+  * Contributors: Atsushi Watanabe
+
+ -- Atsushi Watanabe <atsushi.w@ieee.org>  Mon, 30 Jan 2023 00:00:00 -0000
+
+ros-melodic-safety-limiter-msgs (0.8.0-1bionic) bionic; urgency=high
+
+
+
+ -- Atsushi Watanabe <atushi.w@ieee.org>  Tue, 03 Mar 2020 00:00:00 -0000
+
+ros-melodic-safety-limiter-msgs (0.7.0-1bionic) bionic; urgency=high
+
+
+
+ -- Atsushi Watanabe <atushi.w@ieee.org>  Wed, 29 Jan 2020 00:00:00 -0000
+
+ros-melodic-safety-limiter-msgs (0.5.0-1bionic) bionic; urgency=high
+
+  * Add safety_limiter_msgs package (#16 <https://github.com/at-wat/neonavigation_msgs/issues/16>)
+  * Contributors: Daiki Maekawa
+
+ -- Atsushi Watanabe <atushi.w@ieee.org>  Wed, 02 Oct 2019 00:00:00 -0000
+
+

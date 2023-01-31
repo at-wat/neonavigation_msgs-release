@@ -1,3 +1,32 @@
+## neonavigation_msgs (melodic) - 0.12.0-1
+
+The packages in the `neonavigation_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -y --no-web --ros-distro melodic --override-release-repository-push-url https://github.com/at-wat/neonavigation_msgs-release.git --debug neonavigation_msgs` on `Tue, 31 Jan 2023 01:05:29 -0000`
+
+These packages were released:
+- `costmap_cspace_msgs`
+- `map_organizer_msgs`
+- `neonavigation_msgs`
+- `planner_cspace_msgs`
+- `safety_limiter_msgs`
+- `trajectory_tracker_msgs`
+
+Version of package(s) in repository `neonavigation_msgs`:
+
+- upstream repository: https://github.com/at-wat/neonavigation_msgs.git
+- release repository: https://github.com/at-wat/neonavigation_msgs-release.git
+- rosdistro version: `0.8.0-1`
+- old version: `0.8.0-1`
+- new version: `0.12.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## neonavigation_msgs (noetic) - 0.8.0-1
 
 The packages in the `neonavigation_msgs` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release neonavigation_msgs --track noetic --ros-distro noetic` on `Tue, 07 Apr 2020 05:05:08 -0000`

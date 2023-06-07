@@ -1,0 +1,14 @@
+ros-melodic-neonavigation-metrics-msgs (0.14.0-1bionic) bionic; urgency=high
+
+  * Add neonavigation_metrics_msgs (#65 <https://github.com/at-wat/neonavigation_msgs/issues/65>)
+  * Contributors: Atsushi Watanabe
+
+ -- Atsushi Watanabe <atsushi.w@ieee.org>  Tue, 06 Jun 2023 00:00:00 -0000
+
+ros-melodic-neonavigation-metrics-msgs (0.12.0-1bionic) bionic; urgency=high
+
+
+
+ -- Atsushi Watanabe <atsushi.w@ieee.org>  Mon, 30 Jan 2023 00:00:00 -0000
+
+

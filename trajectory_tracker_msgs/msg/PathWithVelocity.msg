@@ -1,2 +1,0 @@
-Header header
-trajectory_tracker_msgs/PoseStampedWithVelocity[] poses
